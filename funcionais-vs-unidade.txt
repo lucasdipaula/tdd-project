@@ -1,0 +1,6 @@
+1 - Testes de unidades necessitam do conhecimento do projeto, incluindo código,
+já os testes funcionais necessitam apenas conhecimento dos requisitos.
+
+
+2 - Testes de unidade testam métodos individualmente, já os testes
+funcionais testam funcionalidades como um todo.
