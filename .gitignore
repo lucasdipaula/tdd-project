@@ -1,2 +1,6 @@
 virtualenv
-geckodriver.exe
+geckodriver.exedb.sqlite3
+geckodriver.log
+virtualenv
+__pycache__
+*.pyc
