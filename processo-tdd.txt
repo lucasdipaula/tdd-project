@@ -1,0 +1,9 @@
+Escrever um teste funcional e verificar se passou com sucesso, 
+se sim, verifica se a aplicação necessita de refatoração, se não
+necessitar, parte para o proximo teste, e se sim, é necessário 
+modificar o código para que o teste funcione, e para isso escrevemos
+testes de unidades a fim de defiir o comportamento do código.
+
+A cada teste de unidade que falha, escreve-se um código mínimo para que
+o teste passe, e por fim, rodamos o teste funcional novamente e verifica-
+mos se ele passa.
